@@ -1,0 +1,2 @@
+# About this folder
+> This folder contains all the concepts that I learned about JavaScript. The reason behind creating this folder is because I often forget the concepts I learned about JavaScript. So it is essential that I note down all the concepts I've learned so when in future when I forget these concepts I can easily gain insights on it without querying the ChatGPT/Gemini/Grok. Writing concepts down increases your chances of retaining them, it gives you accountability and sense of accomplishment of what you've done & achieved. 
