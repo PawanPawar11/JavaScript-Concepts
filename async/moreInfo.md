@@ -1,4 +1,4 @@
-Yes, you're absolutely right! The way `async` and `await` work can **make asynchronous code appear synchronous**, which is one of the key benefits of using them. Let's dive into why that happens.
+The way `async` and `await` work can **make asynchronous code appear synchronous**, which is one of the key benefits of using them. Let's dive into why that happens.
 
 ### How `async/await` Makes Asynchronous Code Seem Synchronous:
 

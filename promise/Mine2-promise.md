@@ -1,4 +1,4 @@
-Great question, Pawan! You're diving into the **execution order** of JavaScript — specifically how it handles **synchronous and asynchronous code**. Let's walk through **why**:
+**why**:
 
 ```js
 console.log(
